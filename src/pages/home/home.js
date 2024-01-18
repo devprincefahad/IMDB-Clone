@@ -46,9 +46,8 @@ const Home = () => {
                         ))
                     }
                 </Carousel>
+                <MovieList />
             </div>
-            <MovieList/>
-
         </>
     )
 }
